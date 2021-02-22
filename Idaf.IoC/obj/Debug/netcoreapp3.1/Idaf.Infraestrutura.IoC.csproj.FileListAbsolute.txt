@@ -1,0 +1,14 @@
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.IoC\bin\Debug\netcoreapp3.1\Idaf.Infraestrutura.IoC.deps.json
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.IoC\bin\Debug\netcoreapp3.1\Idaf.Infraestrutura.IoC.dll
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.IoC\bin\Debug\netcoreapp3.1\Idaf.Infraestrutura.IoC.pdb
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.IoC\bin\Debug\netcoreapp3.1\Idaf.Dominio.dll
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.IoC\bin\Debug\netcoreapp3.1\Idaf.Infraestrutura.dll
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.IoC\bin\Debug\netcoreapp3.1\Idaf.Infraestrutura.pdb
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.IoC\bin\Debug\netcoreapp3.1\Idaf.Dominio.pdb
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.IoC\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.IoC.csprojAssemblyReference.cache
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.IoC\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.IoC.AssemblyInfoInputs.cache
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.IoC\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.IoC.AssemblyInfo.cs
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.IoC\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.IoC.csproj.CoreCompileInputs.cache
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.IoC\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.IoC.csproj.CopyComplete
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.IoC\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.IoC.dll
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.IoC\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.IoC.pdb

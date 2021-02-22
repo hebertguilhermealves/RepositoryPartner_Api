@@ -1,0 +1,9 @@
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Negocio\bin\Debug\netcoreapp3.1\Idaf.Negocio.deps.json
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Negocio\bin\Debug\netcoreapp3.1\Idaf.Negocio.dll
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Negocio\bin\Debug\netcoreapp3.1\Idaf.Negocio.pdb
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Negocio\obj\Debug\netcoreapp3.1\Idaf.Negocio.csprojAssemblyReference.cache
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Negocio\obj\Debug\netcoreapp3.1\Idaf.Negocio.AssemblyInfoInputs.cache
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Negocio\obj\Debug\netcoreapp3.1\Idaf.Negocio.AssemblyInfo.cs
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Negocio\obj\Debug\netcoreapp3.1\Idaf.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Negocio\obj\Debug\netcoreapp3.1\Idaf.Negocio.dll
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Negocio\obj\Debug\netcoreapp3.1\Idaf.Negocio.pdb

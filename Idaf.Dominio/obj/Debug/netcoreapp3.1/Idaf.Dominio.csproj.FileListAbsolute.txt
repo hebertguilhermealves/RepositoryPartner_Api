@@ -1,0 +1,9 @@
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Dominio\bin\Debug\netcoreapp3.1\Idaf.Dominio.deps.json
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Dominio\bin\Debug\netcoreapp3.1\Idaf.Dominio.dll
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Dominio\bin\Debug\netcoreapp3.1\Idaf.Dominio.pdb
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Dominio\obj\Debug\netcoreapp3.1\Idaf.Dominio.csprojAssemblyReference.cache
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Dominio\obj\Debug\netcoreapp3.1\Idaf.Dominio.AssemblyInfoInputs.cache
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Dominio\obj\Debug\netcoreapp3.1\Idaf.Dominio.AssemblyInfo.cs
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Dominio\obj\Debug\netcoreapp3.1\Idaf.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Dominio\obj\Debug\netcoreapp3.1\Idaf.Dominio.dll
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Dominio\obj\Debug\netcoreapp3.1\Idaf.Dominio.pdb

@@ -1,0 +1,15 @@
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\bin\Debug\netcoreapp3.1\Idaf.Dominio.dll
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.csprojAssemblyReference.cache
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.AssemblyInfo.cs
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\bin\Debug\netcoreapp3.1\Idaf.Infraestrutura.deps.json
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\bin\Debug\netcoreapp3.1\Idaf.Infraestrutura.runtimeconfig.json
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\bin\Debug\netcoreapp3.1\Idaf.Infraestrutura.runtimeconfig.dev.json
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\bin\Debug\netcoreapp3.1\Idaf.Infraestrutura.dll
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\bin\Debug\netcoreapp3.1\Idaf.Infraestrutura.pdb
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\bin\Debug\netcoreapp3.1\Idaf.Dominio.pdb
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.csproj.CopyComplete
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.dll
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.pdb
+C:\Users\195984\Documents\Projeto_Frellancer\Sistema\Idaf\Idaf.Infraestrutura\obj\Debug\netcoreapp3.1\Idaf.Infraestrutura.genruntimeconfig.cache
